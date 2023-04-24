@@ -5,4 +5,9 @@ class Test{
   
   void div()
   {}
+  
+  void sub()
+  {
+  }
+  
 }
